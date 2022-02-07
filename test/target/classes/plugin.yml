@@ -1,0 +1,10 @@
+name: ExamplePlugin
+description: This is just an example plugin
+author: 2LStudios
+main: me.cibnumeritos.example.Main
+version: 0.0.1
+url: https://github.com/2lstudios-mc/bukkit-boilerplate
+commands:
+  example:
+    aliases: ["ex"]
+    description: "This is an example plugin."
